@@ -6,3 +6,8 @@
 -STRING
 -CONDITIONAL
 -PARSING
+
+#Today I havent done things in ruby
+-Modules
+-Files
+
